@@ -26,7 +26,7 @@ import java.util.HashMap;
 public class MainActivity extends ListActivity {
 
 
-    TextView lbl;
+    TextView lbl;  
     DBController controller;
     Button btnimport;
     ListView lv;
